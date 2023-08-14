@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "UnicLogFinder": {
+      "commandName": "Project",
+      "commandLineArgs": "G:\\ITE\\Документы\\sakura.log G:\\ITE\\Документы\\sakura_parsed.log",
+      "sqlDebugging": false
+    }
+  }
+}
